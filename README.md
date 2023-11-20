@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Shen Zhen
+- 🔭 I’m currently working on Home
 - 🌱 I’m currently learning Java/Go
 - ⚡ Fun fact: Coding
 
